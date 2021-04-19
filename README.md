@@ -1,6 +1,4 @@
-mb_watermarkPing
-A Fivem Script
+Със този скрипт може да виждате колко пинг ви върви! Благодаря ако го използвате!
 
-Display your ping with green color below 60 Above 60 ping will turn to red
 
-This script will display a text on your right screen
+Направено от insane for all#9932
